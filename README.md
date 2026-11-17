@@ -2,7 +2,6 @@
 
 Clasificador de noticias falsas y verdaderas con procesamiento de lenguaje natural y regresión logística, hecho con scikit-learn.
 
-Es un ejercicio de un curso de Machine Learning.
 
 ## Resultados
 
